@@ -12,6 +12,16 @@
 ***Web Publisher*** **•** ***Atari Historian*** **•** ***Podcaster***
 
 <br>
+<br>
+
+[![Button YouTube]][YouTube]   
+[![Button Twitter]][Twitter]   
+[![Button Patreon]][Patreon]
+
+[![Button Archive]][Archive]
+
+<br>
+<br>
 
 Owner of **[Savetz Publishing]**, a web site publishing <br>
 company, that operates `100+` useful little web sites.
@@ -26,7 +36,6 @@ an interactive fiction podcast.
 They are author of several technology books, <br>
 including **[Terrible Nerd][Nerd]**, a memoir.
 
-<br>
 <br>
 
 ## Projects
@@ -98,4 +107,7 @@ including **[Terrible Nerd][Nerd]**, a memoir.
 
 <!---------------------------------[ Buttons ]--------------------------------->
 
-[Button Icon]: https://img.shields.io/badge/Installation-EF2D5E?style=for-the-badge&logoColor=white&logo=DocuSign
+[Button Archive]: https://img.shields.io/badge/Internet_Archive-666666?style=for-the-badge&logoColor=white&logo=InternetArchive
+[Button YouTube]: https://img.shields.io/badge/YouTube-DD282E?style=for-the-badge&logoColor=white&logo=YouTube
+[Button Patreon]: https://img.shields.io/badge/Patreon-FF424D?style=for-the-badge&logoColor=white&logo=Patreon
+[Button Twitter]: https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logoColor=white&logo=Twitter
