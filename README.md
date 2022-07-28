@@ -9,7 +9,7 @@
 
 # Kevin “Kay” Savetz
 
-***Web Publisher***  **•**  ***Atari Historian***  **•**  ***Podcaster***
+**Web Publisher**  **•**  **Atari Historian**  **•**  **Podcaster**
 
 <br>
 <br>
