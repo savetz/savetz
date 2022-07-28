@@ -4,40 +4,40 @@
 
 [<img
     src = 'Resources/ANTIC.png'
-    width = 400
+    width = 380
 />][ANTIC]       
 [<img
     src = 'Resources/Grue.png'
-    width = 400
+    width = 380
 />][Grue]
 
 <br>
 
 [<img
     src = 'Resources/Free%20Printable.png'
-    width = 400
+    width = 380
 />][Printable]       
 [<img
     src = 'Resources/Fax%20Zero.png'
-    width = 400
+    width = 380
 />][Fax]
 
 <br>
 
 [<img
     src = 'Resources/Terrible%20Nerd.png'
-    width = 400
+    width = 380
 />][Nerd]       
 [<img
     src = 'Resources/Scantastix.png'
-    width = 400
+    width = 380
 />][Scan]
 
 <br>
 
 [<img
     src = 'Resources/Bot.png'
-    width = 400
+    width = 380
 />][Bot]
 
 </div>
