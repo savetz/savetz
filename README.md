@@ -7,7 +7,7 @@
 
 <br>
 
-Kay Savetz
+# Kay Savetz
 
 **Web Publisher**  **•**  **Atari Historian**  **•**  **Podcaster**
 
@@ -25,6 +25,8 @@ Kay Savetz
 
 Owner of **[Savetz Publishing]**, a web site publishing <br>
 company, that operates `100+` useful little web sites.
+
+Kay is also manager of special collections at Internet Archive.
 
 Co-host of **[Antic: The Atari 8-Bit Podcast][ANTIC]**, a show with <br> 
 `400+` interviews that have contributed to the oral <br>
