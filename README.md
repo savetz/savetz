@@ -26,7 +26,7 @@
 Owner of **[Savetz Publishing]**, a web site publishing <br>
 company, that operates `100+` useful little web sites.
 
-Kay is also program manager, special collections at Internet Archive,
+Kay is also program manager, special collections at Internet Archive, <br>
 where they curate the **[Digital Library of Amateur Radio & Communications]**.
 
 Co-host of **[Antic: The Atari 8-Bit Podcast][ANTIC]**, a show with <br> 
