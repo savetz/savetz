@@ -112,4 +112,4 @@ including **[Terrible Nerd][Nerd]**, a memoir.
 [Button Archive]: https://img.shields.io/badge/Internet_Archive-666666?style=for-the-badge&logoColor=white&logo=InternetArchive
 [Button YouTube]: https://img.shields.io/badge/YouTube-DD282E?style=for-the-badge&logoColor=white&logo=YouTube
 [Button Patreon]: https://img.shields.io/badge/Patreon-FF424D?style=for-the-badge&logoColor=white&logo=Patreon
-[Button Twitter]: https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logoColor=white&logo=Twitter
+[Button Mastodon]: https://img.shields.io/badge/Mastodon-1DA1F2?style=for-the-badge&logoColor=white&logo=Mastodon
