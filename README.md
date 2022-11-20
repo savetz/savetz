@@ -15,7 +15,7 @@
 <br>
 
 [![Button YouTube]][YouTube]   
-[![Button Twitter]][Twitter]   
+[![Button Mastodon]][Mastodon]   
 [![Button Patreon]][Patreon]
 
 [![Button Archive]][Archive]
@@ -102,7 +102,7 @@ including **[Terrible Nerd][Nerd]**, a memoir.
 [YouTube]: https://www.youtube.com/c/KaySavetz
 [Archive]: https://archive.org/details/@savetz
 [Patreon]: https://www.patreon.com/savetz
-[Twitter]: https://twitter.com/kaysavetz
+[Mastoson]: https://oldbytes.space/@savetz
 
 [Live]: Resources/Live.jpg
 
