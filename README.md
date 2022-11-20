@@ -103,7 +103,7 @@ including **[Terrible Nerd][Nerd]**, a memoir.
 [YouTube]: https://www.youtube.com/c/KaySavetz
 [Archive]: https://archive.org/details/@savetz
 [Patreon]: https://www.patreon.com/savetz
-[Mastoson]: https://oldbytes.space/@savetz
+[Mastodon]: https://oldbytes.space/@savetz
 
 [Live]: Resources/Live.jpg
 
